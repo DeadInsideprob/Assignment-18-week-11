@@ -25,3 +25,6 @@ Mark: 78
 ## Logan Baird
 
 Edit added by Allen Hulbert
+
+## Collaboration Acknowledgment
+This project was reviewed and edited by [Allen Hulbert] on GitHub.
